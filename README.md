@@ -7,6 +7,9 @@ model = YOLO('yolov5n.pt')  # load an official model
 # model = YOLO('yolov8n.pt')  # load an official model
 # model = YOLO('yolov8n-pose.pt')  # load an official model
 # model = YOLO('yolov8n-seg.pt')  # load an official model
+# model = YOLO('yolo11n.pt')  # load an official model
+# model = YOLO('yolo11n-seg.pt')  # load an official model
+
 
 
 ###MODEL OPTIMIZE
